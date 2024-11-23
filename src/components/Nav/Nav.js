@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Transition } from "@headlessui/react";
 import "./Nav.css"
-import  logo from "../../assets/tulip.png"
+// import  logo from "../../assets/tulip.png"
 const Nav = () => {
      const [isOpen, setIsOpen] = useState(false);
 
@@ -131,7 +131,7 @@ const Nav = () => {
           <div className="container mx-auto flex justify-between items-center">
             <div className="text-blue-900 font-semibold text-xl">
 <a href='/' alt="">
-  <img src={logo} alt="" className='w-20'/>
+  {/* <img src={logo} alt="" className='w-20'/> */}
 </a>
             </div>
             <div className="hidden md:flex space-x-4">
