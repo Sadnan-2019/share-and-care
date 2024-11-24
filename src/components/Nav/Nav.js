@@ -53,7 +53,7 @@ const Nav = () => {
              onClick={gotoMenu}
              to="/home"
            >
-             OUR MENU
+             OUR SERVICES
            </NavLink>
          </li>
    
