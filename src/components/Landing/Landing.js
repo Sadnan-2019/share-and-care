@@ -61,14 +61,14 @@ const Landing = () => {
       <div className="full-width-slider">
         <Slider ref={sliderRef} {...settings} className="">
         <div className=" ">
-            <section className="landingone  blog h-auto        ">
+            <section className="landingone  blog         ">
               <div class="  relative z-10 flex flex-col justify-center items-center h-full text-center  ">
                 <div class=" ">
                   <div class="   ">
                     <div class="text-center">
                       <h1
                         style={{ lineHeight: "120%" }}
-                        className={`gupter-regular  slide-text  max-w-5xl text-2xl font-bold leading-none tracking-tighter   lg:text-[40px] lg:max-w-7xl    text-transparent   text-white ${
+                        className={`gupter-regular  slide-text  max-w-5xl text-2xl font-bold leading-none tracking-tighter   lg:text-[40px] lg:max-w-7xl       text-white ${
                           currentSlide === 0 ? "animated" : ""
                         }`}
                       >
@@ -105,14 +105,14 @@ const Landing = () => {
             </section>
           </div>
         <div className=" ">
-            <section className="landingtwo  blog h-auto        ">
+            <section className="landingtwo   h-auto        ">
               <div class="  relative z-10 flex flex-col justify-center items-center h-full text-center  ">
                 <div class=" ">
                   <div class="   ">
                     <div class="text-center">
                       <h1
                         style={{ lineHeight: "120%" }}
-                        className={`gupter-regular   slide-text  max-w-5xl text-2xl font-bold leading-none tracking-tighter   lg:text-[40px] lg:max-w-7xl    text-transparent   text-white ${
+                        className={`gupter-regular   slide-text  max-w-5xl text-2xl font-bold leading-none tracking-tighter   lg:text-[40px] lg:max-w-7xl   text-white ${
                           currentSlide === 1 ? "animated" : ""
                         }`}
                       >
@@ -149,14 +149,14 @@ const Landing = () => {
             </section>
           </div>
         <div className=" ">
-            <section className="landingthree  blog        ">
+            <section className="landingthree           ">
               <div class="  relative z-10 flex flex-col justify-center items-center h-full text-center  ">
                 <div class=" ">
                   <div class="   ">
                     <div class="text-center">
                       <h1
                         style={{ lineHeight: "120%" }}
-                        className={`gupter-regular  slide-text  max-w-5xl text-2xl font-bold leading-none tracking-tighter   lg:text-[40px] lg:max-w-7xl    text-transparent   text-white ${
+                        className={`gupter-regular  slide-text  max-w-5xl text-2xl font-bold leading-none tracking-tighter   lg:text-[40px] lg:max-w-7xl   text-white ${
                           currentSlide === 2 ? "animated" : ""
                         }`}
                       >
