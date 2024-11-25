@@ -2,12 +2,16 @@ import logo from './logo.svg';
 import './App.css';
 import Nav from './components/Nav/Nav';
 import Landing from './components/Landing/Landing';
+import Footer from './components/Footer/Footer';
+import Services from './components/Services/Services';
 
 function App() {
   return (
     <div className="">
       <Nav></Nav>
       <Landing></Landing>
+      <Services></Services>
+      <Footer></Footer>
     </div>
   );
 }
