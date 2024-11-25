@@ -20,17 +20,19 @@ const Services = () => {
         <div className=" ">
           <h2
             className="text-3xl text-center   font-bold poppins-b sm:text-4xl"
-            style={{ color: "#453364" }}
+            style={{ color: "#486038" }}
           >
             Our Services
           </h2>
           <h1
             className="  w-32 h-1 rounded-lg mt-2 mb-4 mx-auto"
-            style={{ backgroundColor: "#453364" }}
+            style={{ backgroundColor: "#486038" }}
           ></h1>
         </div>
 
         <div className="grid grid-cols-1 gap-8 mt-8 md:grid-cols-2 lg:grid-cols-3 py-5">
+
+            
           <a
             className="block p-8 transition bg-white  shadow-md rounded-xl hover:shadow-lg cursor-pointer"
             data-aos="fade-up"
@@ -52,7 +54,7 @@ const Services = () => {
               <label
                 htmlFor="my-modal-6"
                 className="btn btn-sm modal-button mt-3 text-white   "
-                style={{ backgroundColor: "#453364" }}
+                style={{ backgroundColor: "#486038" }}
               >
                 service details
               </label>
@@ -83,7 +85,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-6"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -115,7 +117,7 @@ const Services = () => {
               <label
                 htmlFor="my-modal-5"
                 className="btn btn-sm modal-button mt-3 text-white   "
-                style={{ backgroundColor: "#453364" }}
+                style={{ backgroundColor: "#486038" }}
               >
                 service details
               </label>
@@ -149,7 +151,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-5"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -183,7 +185,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-4"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -212,7 +214,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-4"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -244,7 +246,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-3"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -273,7 +275,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-3"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -301,7 +303,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-2"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -333,7 +335,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-2"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -362,7 +364,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-1"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -392,7 +394,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-1"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -420,7 +422,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-7"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -449,7 +451,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-7"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -479,7 +481,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-11"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -508,7 +510,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-11"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -549,7 +551,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-8"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -582,7 +584,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-8"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -617,7 +619,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-9"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               service details
             </label>
@@ -645,7 +647,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-9"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
@@ -679,7 +681,7 @@ const Services = () => {
             <label
               htmlFor="my-modal-10"
               className="btn btn-sm modal-button mt-3 text-white"
-              style={{ backgroundColor: "#453364" }}
+              style={{ backgroundColor: "#486038" }}
             >
               Service details
             </label>
@@ -707,7 +709,7 @@ const Services = () => {
                 <label
                   htmlFor="my-modal-10"
                   className="btn text-white "
-                  style={{ backgroundColor: "#453364" }}
+                  style={{ backgroundColor: "#486038" }}
                 >
                   close!
                 </label>
