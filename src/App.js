@@ -5,6 +5,7 @@ import Landing from './components/Landing/Landing';
 import Footer from './components/Footer/Footer';
 import Services from './components/Services/Services';
 import Why from './components/Why/Why';
+import Review from './components/Review/Review';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Landing></Landing>
       <Services></Services>
       <Why></Why>
+      <Review></Review>
       <Footer></Footer>
     </div>
   );
