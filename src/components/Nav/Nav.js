@@ -74,10 +74,10 @@ const Nav = () => {
              className="mx-1 text-white-600   font-bold   p-0 lg:text-blue-800"
              to="/home"
            >
-             OUR TEAM
+             OUR CLIENTS
            </NavLink>
          </li>
-         <li className="nav-item p-2  	list-none">
+         {/* <li className="nav-item p-2  	list-none">
            <NavLink
             //  onClick={() => setIsOpen(false)}
             //  className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
@@ -87,7 +87,7 @@ const Nav = () => {
            >
              GALLERY
            </NavLink>
-         </li>
+         </li> */}
          <li className="nav-item p-2  	list-none">
            <NavLink
             //  onClick={() => setIsOpen(false)}
@@ -96,7 +96,7 @@ const Nav = () => {
              className="mx-1 text-white-600   font-bold   p-0 lg:text-blue-800"
              to="/home"
            >
-             CUSTOMER REVIEW
+            OUR TEAM
            </NavLink>
          </li>
    

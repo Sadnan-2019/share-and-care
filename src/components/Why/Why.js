@@ -46,8 +46,8 @@ const Why = () => {
                   ACCELERATED HANDLING
                 </h3>
                 <p class="text-white">
-                  Edu Solutions supports students in the university selection
-                  process, aids in completing applications, offers guidance on
+                  Share & Care  supports Patients  in the  Country  selection
+                  process, aids in completing applications, traning  guidance on
                   financial aid, and more, ensuring they achieve their goals and
                   discover the optimal educational path.
                 </p>

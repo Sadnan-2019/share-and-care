@@ -4,7 +4,7 @@ import ambulanceservice from "../../asset/ambulanceservice.jfif";
 import icuservice from "../../asset/icu.jpg";
 import nurseservice from "../../asset/nurseservice.jpg";
 import servicemedicalassistant from "../../asset/servicemedicalassistant.jpg";
-import medicalcaregiver from "../../asset/servicemedicalcare-giver.webp";
+import medicalcaregiver from "../../asset/medicalcaregiver.jpg";
 import caregiver from "../../asset/service-caregive.jpg";
 import nanines from "../../asset/service-nanines.jpg";
 import companionship from "../../asset/service-companionship.jpg";
@@ -528,7 +528,7 @@ const Services = () => {
 
 
 
-          <a
+          {/* <a
             className="block p-8 transition bg-white  shadow-md rounded-xl hover:shadow-lg cursor-pointer"
             data-aos="fade-up"
             data-aos-duration="1000"
@@ -715,7 +715,7 @@ const Services = () => {
                 </label>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

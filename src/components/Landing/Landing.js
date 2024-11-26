@@ -72,9 +72,9 @@ const Landing = () => {
                           currentSlide === 0 ? "animated" : ""
                         }`}
                       >
-                 Experience Our Tempting New Lunch Specials 
+                Share & Care offres Affordable Home HealthCare Service
                         <br class=" lg:block" />
-                        at The Tulip Garden Resturent.
+                        With Certified & Experienced HealthCare Professionals.
                       </h1>
 
                       <div class="flex justify-center w-full max-w-2xl gap-2 mx-auto mt-6">
@@ -116,9 +116,9 @@ const Landing = () => {
                           currentSlide === 1 ? "animated" : ""
                         }`}
                       >
-                                   Indulge in the Delectable Food and Beverage Selection 
+                                  Share & Care Is Ready to Take Care Of Your 
                         <br class=" lg:block" />
-                        at The Tulip Garden Resturent..
+                        Loved Ones At Home
                       </h1>
 
                       <div class="flex justify-center w-full max-w-2xl gap-2 mx-auto mt-6">
@@ -160,9 +160,9 @@ const Landing = () => {
                           currentSlide === 2 ? "animated" : ""
                         }`}
                       >
-                        Unleash Your Palate with the Steak and 
+                        We are Accesable & Affordable 
                         <br class=" lg:block" />
-                        Thai Food King.
+                        
                       </h1>
 
                       <div class="flex justify-center w-full max-w-2xl gap-2 mx-auto mt-6">

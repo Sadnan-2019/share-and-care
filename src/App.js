@@ -6,6 +6,8 @@ import Footer from './components/Footer/Footer';
 import Services from './components/Services/Services';
 import Why from './components/Why/Why';
 import Review from './components/Review/Review';
+import Clients from './components/Clients/Clients';
+import Team from './components/Team/Team';
 
 function App() {
   return (
@@ -14,7 +16,9 @@ function App() {
       <Landing></Landing>
       <Services></Services>
       <Why></Why>
+      <Clients></Clients>
       <Review></Review>
+      <Team></Team>
       <Footer></Footer>
     </div>
   );
