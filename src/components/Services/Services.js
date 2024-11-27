@@ -43,7 +43,7 @@ const Services = () => {
             <h3 className="mt-3 mb-2 text-xl font-bold text-left ">Nursing</h3>
 
             <p className="mt-1 text-sm text-left text-gray-800 poppins-t lg:text-justify">
-              HealthCare at home offers most comprehensive and hollistic nursing
+              Share & Care at home offers most comprehensive and hollistic nursing
               care at home. They provide physical & psychological support to the
               patients.Our nurses administer oral & parenteral medication.All
               time they are analysis heartbeat, BP, Temperature, Oxygen
@@ -105,7 +105,7 @@ const Services = () => {
             </h3>
 
             <p className="mt-1 text-sm text-left text-gray-800 poppins-t lg:text-justify">
-              HealthCare at home has got a good number of diploma and B.Sc
+              Share & Care has got a good number of diploma and B.Sc
               physiotherapists. They are experienced & specially trained.Most of
               them carry instruments such as IRR, TENS, Ultrasound. They are
               qualified to take care of patients of all ages.They can address
