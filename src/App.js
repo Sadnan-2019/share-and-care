@@ -16,7 +16,7 @@ function App() {
       <Landing></Landing>
       <Services></Services>
       <Why></Why>
-      <Clients></Clients>
+      {/* <Clients></Clients> */}
       <Review></Review>
       <Team></Team>
       <Footer></Footer>

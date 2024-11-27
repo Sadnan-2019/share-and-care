@@ -66,7 +66,7 @@ const Nav = () => {
              ABOUT
            </NavLink>
          </li>
-         <li className="nav-item p-2  	list-none">
+         {/* <li className="nav-item p-2  	list-none">
            <NavLink
             //  onClick={() => setIsOpen(false)}
             //  className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
@@ -76,7 +76,7 @@ const Nav = () => {
            >
              OUR CLIENTS
            </NavLink>
-         </li>
+         </li> */}
          {/* <li className="nav-item p-2  	list-none">
            <NavLink
             //  onClick={() => setIsOpen(false)}
