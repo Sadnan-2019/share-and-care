@@ -9,10 +9,12 @@ import Review from './components/Review/Review';
 import Clients from './components/Clients/Clients';
 import Team from './components/Team/Team';
 import Contact from './components/Contact/Contact';
+import TopNav from './components/TopNav/TopNav';
 
 function App() {
   return (
     <div className="">
+      <TopNav></TopNav>
       <Nav></Nav>
       <Landing></Landing>
       <Services></Services>

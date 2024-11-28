@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div>
            <div>
-      <footer class="blog py-10 " style={{ backgroundColor: "#486038" }}>
+      <footer class="blog py-10 " style={{ backgroundColor: "#190D33" }}>
         <div class="max-w-screen-xl px-4  pb-6 mx-auto sm:px-6 lg:px-8 ">
           <div class="grid grid-cols-1 gap-8 pt-16 mt-16 border-t border-gray-100 md:grid-cols-4 lg:grid-cols-4 text-white">
             <div class="text-center sm:text-left">
@@ -177,7 +177,7 @@ const Footer = () => {
             <ul class="flex justify-center gap-6 mt-4 sm:mt-0 sm:justify-start">
               <li>
                 <a
-                  href="https://www.facebook.com/hcahbd"
+                  href="https://www.facebook.com/ShareandCareDhaka"
                   rel="noopener noreferrer"
                   target="_blank"
                   class="text-primary transition hover:text-blue-800"
@@ -222,7 +222,7 @@ const Footer = () => {
               </li>
 
               <li>
-                <a href="https://www.linkedin.com/company/healthcare-at-home-bangladesh/" rel="noopener noreferrer" target="_blank">
+                <a href=" " rel="noopener noreferrer" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   x="0px"

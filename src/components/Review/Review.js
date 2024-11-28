@@ -29,7 +29,7 @@ const Review = () => {
 
 <h2 data-aos="zoom-out-up"
   style={{ lineHeight: "120%" }}
-  className="animated slide-text text-[25px] lg:text-[40px] font-bold   text-center mt-8   text-transparent bg-clip-text bg-gradient-to-r from-[#0b281c] to-[#486038] "
+  className="animated slide-text text-[25px] lg:text-3xl font-bold   text-center mt-8   text-transparent bg-clip-text bg-gradient-to-r from-[#190D33] to-[#190D33] "
 >
   {" "}
   RECENT  CUSTOMER REVIEWS!
@@ -61,7 +61,7 @@ const Review = () => {
     <div className=" ">
       <SwiperSlide>
         <div class="container mx-auto p-10  px-4">
-          <div class="bg-gradient-to-r from-[#486038] via-[#3342BF] to-[#080C24] via-[#486038] to-[#3c5b28]   inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex  rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33] via-[#190D33] to-[#190D33]   inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={reviewone}
@@ -85,7 +85,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33] rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={reviewtthree}
@@ -109,7 +109,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={reviewtwo}
@@ -136,7 +136,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={reviewfour}
@@ -161,7 +161,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={reviewfive}
@@ -186,7 +186,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={review6}
@@ -212,7 +212,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={review7}
@@ -238,7 +238,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={review8}
@@ -261,7 +261,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={review9}
@@ -283,7 +283,7 @@ const Review = () => {
       </SwiperSlide>
       <SwiperSlide>
         <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#017445] via-[#160a2c] to-[#EF932A] rounded-lg border shadow-lg pb-6 lg:pb-0">
+          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
             <div class="w-full lg:w-1/3 lg:p-4">
               <img
                 src={review7}
