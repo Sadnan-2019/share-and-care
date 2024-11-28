@@ -36,7 +36,7 @@ const TopNav = () => {
               +880 1333-388686  
               </a> 
               </p>
-              <p className="text-[10px] lg:text-xs  text-blue-800	 	">01643-390832  </p>
+              <p className="text-[10px] lg:text-xs  text-blue-800	 	"> +880 1333-388686  </p>
             </div>
           </div>
           <div
@@ -51,7 +51,7 @@ const TopNav = () => {
                 Email us
               </p>
               {/* <p className="text-[10px] lg:text-xs	 	">info@mrs.mrg.com.bd</p> */}
-              <a href='mailto:info@mrs.mrg.com.bd' className="text-[10px] lg:text-xs text-blue-800 	">info@mrs.mrg.com.bd</a>
+              <a href='mailto:info@mrs.mrg.com.bd' className="text-[10px] lg:text-xs text-blue-800 	">info@snc.mrg.com.bd</a>
             </div>
           </div>
           {/* <div
