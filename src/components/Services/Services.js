@@ -14,7 +14,10 @@ import equipment from "../../asset/service-medical-equipment.jpeg";
 import "./Service.css";
 const Services = () => {
     return (
+
+      
         <div>
+          
             <section className="blog">
       <div className="md:mx-16 lg:mx-24 mx-8 py-8 ">
         <div className=" ">
