@@ -1,5 +1,5 @@
 import React from 'react';
-import forzeroFour from "../../assets/forzerofour.jpg"
+import forzeroFour from "../../asset/forzerofour.jpg"
 
 const FourZeroFour = () => {
     return (
