@@ -1,29 +1,27 @@
 import logo from './logo.svg';
 import './App.css';
 import Nav from './components/Nav/Nav';
-import Landing from './components/Landing/Landing';
+
 import Footer from './components/Footer/Footer';
-import Services from './components/Services/Services';
-import Why from './components/Why/Why';
-import Review from './components/Review/Review';
-import Clients from './components/Clients/Clients';
-import Team from './components/Team/Team';
-import Contact from './components/Contact/Contact';
+
 import TopNav from './components/TopNav/TopNav';
+import { Route, Routes } from 'react-router-dom';
+import Home from './components/Home/Home';
 
 function App() {
   return (
     <div className="">
+
+<Routes>
+
+<Route path="/home" element={<Home />}></Route>
+<Route path="/" element={<Home />}></Route>
+  </Routes>
       <TopNav></TopNav>
       <Nav></Nav>
-      <Landing></Landing>
-      <Services></Services>
-      <Why></Why>
-      {/* <Clients></Clients> */}
-      <Review></Review>
-      <Team></Team>
-      <Contact></Contact>
+      
       <Footer></Footer>
+      {/* <Route path="/*" element={<FourZeroFour />} />  */}
     </div>
   );
 }

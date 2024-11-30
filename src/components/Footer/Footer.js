@@ -122,7 +122,7 @@ const Footer = () => {
                       {/* <img className=" opacity-80	 " src={hcahfb} alt="" /> */}
 
                       <div className="  	   mx-2     absolute ">
-                        <div className=" rounded-xl   bg-gradient-to-r from-[#486038] to-[#070112]   text-white">
+                        <div className=" rounded-xl      text-white">
                           {/* <p className=" p-1  mt-[-30px]  bg-gradient-to-r from-[#486038] to-[#38235D]   text-white  ">
                             HealthCare at Home
                           </p> */}
@@ -147,9 +147,9 @@ const Footer = () => {
                                 />
                               </svg> */}
                               <div className="flex items-center gap-2  ">
-                                {/* <p className="text-white text-sm font-bold   ">
-                                  5{" "}
-                                </p> */}
+                                <p className="text-white text-lg font-bold   ">
+                                Our Address :Gulshan 2 Road 108 House 11 Dhaka 1212
+                                </p>
                                 {/* <AiFillStar className="text-white" />
                                 <AiFillStar className="text-white" />
                                 <AiFillStar className="text-white" />

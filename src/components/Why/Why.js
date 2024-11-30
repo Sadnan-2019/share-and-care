@@ -3,7 +3,7 @@ import React from "react";
 const Why = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-[#190D33] via-[#3342BF] to-[#080C24] via-[#190D33] to-[#190D33]">
+      <div className="bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#080C24]  ">
         <div
           id="services"
           class="section relative pt-20 pb-8 md:pt-16 md:pb-0  "

@@ -76,8 +76,8 @@ const Review = () => {
                   Akm Karamat Hossen Akondo
                 </p>
                 <p class="raleway text-sm my-4 text-white  ">
-                  Me & My Wife go there today ,& took a set menu fried rice, chicken fry, vegetable, Drinks really it was delicious food, & great taste. Behaviour also good.
-                </p>
+                Excellent & Trusted Behavior of this company Caregivers.We are satisfied for this compnay service.
+                 </p>
               </div>
             </div>
           </div>
@@ -100,7 +100,7 @@ const Review = () => {
                   HCAH Mahmud
                 </p>
                 <p class="raleway text-sm my-4 text-white opacity-75">
-                  I think this cafe is best for set menu and coffee.Their behave also remarkable.
+                  I think this organization  is best for  homebased health care .Their behave also remarkable.
                 </p>
               </div>
             </div>
@@ -124,10 +124,10 @@ const Review = () => {
                   Nahid Hasan
                 </p>
                 <p class="raleway text-sm my-4 text-white opacity-75">
-                  One of best restaurant in Maymanshing .
-                  Large menu
-                  Great food
-                  Healthy options
+                One of the best patients care at home in Dhaka.
+                  Authentic
+                     Reliable
+                     
                 </p>
               </div>
             </div>
@@ -151,8 +151,7 @@ const Review = () => {
                   Biplob Nebil
                 </p>
                 <p class="raleway text-sm my-4 text-white opacity-75">
-                  Really Nice environment, very good food and service
-
+                Nice promising   services, perfect & remembering service 
                 </p>
               </div>
             </div>
@@ -176,7 +175,7 @@ const Review = () => {
                   Zahiruddin Mahmud
                 </p>
                 <p class="raleway text-sm my-4 text-white opacity-75">
-                  Food and Staff both were exceptional. Very delicious food and behavior decent. I would highly recommend all to dine at Tulip Garden Restaurant
+                Protocol and Staff were both exceptional. Very responsible and decent behaviour. I would highly recommend all to Share & Care.
 
                 </p>
               </div>
@@ -184,126 +183,7 @@ const Review = () => {
           </div>
         </div>
       </SwiperSlide>
-      <SwiperSlide>
-        <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
-            <div class="w-full lg:w-1/3 lg:p-4">
-              <img
-                src={review6}
-                alt="image"
-                class="h-64 lg:h-full object-cover object-center w-full"
-              />
-            </div>
-
-            <div class="w-full lg:w-2/3 p-4">
-              <div class="inline-grid">
-                <p class="work-sans font-semibold text-xl text-white">
-                  Harun Shikder
-                </p>
-                <p class="raleway text-sm my-4 text-white opacity-75">
-                  Very large space and arrangements
-                  for family hangouts, Foods are very delicious & enough portions.
-
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
-            <div class="w-full lg:w-1/3 lg:p-4">
-              <img
-                src={review7}
-                alt="image"
-                class="h-64 lg:h-full object-cover object-center w-full"
-              />
-            </div>
-
-            <div class="w-full lg:w-2/3 p-4">
-              <div class="inline-grid">
-                <p class="work-sans font-semibold text-xl text-white">
-                  আজহারুল হক                      </p>
-                <p class="raleway text-sm my-4 text-white opacity-75">
-                  They have great interior theme. And
-                  their lood quality is soo good
-                  Chill
-                  out
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
-            <div class="w-full lg:w-1/3 lg:p-4">
-              <img
-                src={review8}
-                alt="image"
-                class="h-64 lg:h-full object-cover object-center w-full"
-              />
-            </div>
-
-            <div class="w-full lg:w-2/3 p-4">
-              <div class="inline-grid">
-                <p class="work-sans font-semibold text-xl text-white">
-                  Abara Zawad Sami                  </p>
-                <p class="raleway text-sm my-4 text-white opacity-75">
-                  Foods are just yummy. Liked the place and service also, Stylish interior, Fine dining, Healthy options
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
-            <div class="w-full lg:w-1/3 lg:p-4">
-              <img
-                src={review9}
-                alt="image"
-                class="h-64 lg:h-full object-cover object-center w-full"
-              />
-            </div>
-
-            <div class="w-full lg:w-2/3 p-4">
-              <div class="inline-grid">
-                <p class="work-sans font-semibold text-xl text-white">
-                  Sporshomoi Riad                </p>
-                <p class="raleway text-sm my-4 text-white opacity-75">
-                  Food was really very good! Alhamdulilah satisfied with their service!thanks!                      </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div class="container mx-auto py-12 px-4">
-          <div class="inline-grid max-w-xs sm:max-w-xs lg:max-w-lg lg:flex bg-gradient-to-r from-[#190D33] via-[#190D33] to-[#190D33]  rounded-lg border shadow-lg pb-6 lg:pb-0">
-            <div class="w-full lg:w-1/3 lg:p-4">
-              <img
-                src={review7}
-                alt="image"
-                class="h-64 lg:h-full object-cover object-center w-full"
-              />
-            </div>
-
-            <div class="w-full lg:w-2/3 p-4">
-              <div class="inline-grid">
-                <p class="work-sans font-semibold text-xl text-white">
-                AR Rahman Buiya              </p>
-                <p class="raleway text-sm my-4 text-white opacity-75">
-                  Alhamdulillah... at last Trishala Valo Kono khabar er restaurant peyesi.. Good qualhty and good quantity.Asha korsi Tulip Garden restaurant tader quality same rakhbe always.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </SwiperSlide>
+     
 
     </div>
   </Swiper>
